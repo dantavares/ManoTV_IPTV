@@ -5,8 +5,8 @@ This was forked from sudo97
 Added a few more containers to play mp4 mkv etc 
 
 You need to enter developer mode on Roku to sideload the channel a detailed tutorial can be found here 
-Eng: https://youtu.be/rPLHktW8c2I
-PT-BR: https://youtu.be/vMI603btuTs
+* Eng: https://youtu.be/rPLHktW8c2I
+* PT-BR: https://youtu.be/vMI603btuTs
 
 There is a default playlist with (Mano TV - PT-BR). You can edit the m3u with your own or your iptv providers.
 
