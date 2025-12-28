@@ -6,7 +6,7 @@ sub Main()
     if reg.Exists("primaryfeed") then
         url = reg.Read("primaryfeed")
     else
-        url = "https://tinyurl.com/yaoc6zpo"
+        url = "https://abre.ai/manotv3"
     end if
 
     screen = CreateObject("roSGScreen")
