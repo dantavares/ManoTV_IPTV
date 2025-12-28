@@ -151,6 +151,10 @@ sub onSearchDialogButton()
         m.searchTerm = m.top.dialog.text
         FilterChannels(m.searchTerm)
         m.top.dialog.close = true
+        m.list.SetFocus(true)
+        m.video.translation = [800, 100]
+        m.video.width = 960
+        m.video.height = 540
 
     else if btn = 1 then  ' Clear
         m.searchTerm = ""
