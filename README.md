@@ -10,5 +10,5 @@ https://www.howtogeek.com/290787/how-to-enable-developer-mode-and-sideload-roku-
 There is a default playlist with (Mano TV - PT-BR). You can edit the m3u with your own or your iptv providers.
 
 * Sort into sections
-* The playlist window doesn't open on startup. To open it, press :arrow_left: to display the channel list and press :eight_spoked_asterisk:
+* The playlist window doesn't open on startup. To open it, press :arrow_backward: to display the channel list and press :eight_spoked_asterisk:
 * Find channel pressing Counterclockwise arrow button
