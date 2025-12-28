@@ -128,9 +128,9 @@ sub showSearchDialog()
 
     searchDialog = CreateObject("roSGNode", "KeyboardDialog")
     searchDialog.backgroundUri = "pkg:/images/rsgde_bg_hd.jpg"
-    searchDialog.title = "Search Channels"
+    searchDialog.title = "Procurar Canais"
 
-    searchDialog.buttons = ["Search", "Clear", "Cancel"]
+    searchDialog.buttons = ["Procurar", "Limpar Pesquisa", "Cancelar"]
     searchDialog.optionsDialog = true
 
     ' Start with the last search term, if any
