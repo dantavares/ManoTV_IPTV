@@ -15,6 +15,7 @@ Há uma lista de reprodução padrão com o Mano TV, Mas você pode editar com s
 
 Notas da Versão:
 * Classificação por seções
+* Botão Voltar (ao lado do home) faz parar a reprodução atual
 * Para editar a lista de reprodução, pressione :arrow_backward: para exibir a lista de canais e pressione asteristico :eight_spoked_asterisk:
 * Encontre o canal pressionando o botão de seta no sentido anti-horário. Baseado em: https://github.com/Kasmaristo-Delvakto/SimpleIPTVRoku
 
