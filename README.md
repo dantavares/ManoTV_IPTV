@@ -17,3 +17,7 @@ Notas da Versão:
 * Classificação por seções
 * Para editar a lista de reprodução, pressione :arrow_backward: para exibir a lista de canais e pressione asteristico :eight_spoked_asterisk:
 * Encontre o canal pressionando o botão de seta no sentido anti-horário. Baseado em: https://github.com/Kasmaristo-Delvakto/SimpleIPTVRoku
+
+### Atenção!
+
+Este software não foi desenvolvido pela equipe da ManoTV, mas foi autorizado a usar o nome.
