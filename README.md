@@ -7,7 +7,7 @@ Adicionados alguns contêineres para reproduzir MP4, MKV, etc.
 Você precisa ativar o modo desenvolvedor no Roku para instalar o canal. Um tutorial detalhado pode ser encontrado aqui:
 https://youtu.be/vMI603btuTs
 
-#Instalação:
+# Instalação:
 Baixe o arquivo ManoTV.sqsh, acesse o instalador de aplicativos de desenvolvimento do Roku (via IP local, em um navegador da web) faça upload do arquivo ManoTV.sqsh, e em seguida clique em "Install with squashfs".
 
 Há uma lista de reprodução padrão com o Mano TV, Mas você pode editar com sua própria lista.
