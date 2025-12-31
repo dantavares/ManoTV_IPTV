@@ -26,8 +26,6 @@ sub init()
     m.video.control = "play"
 
     m.get_channel_list.control = "RUN"
-
-    'm.top.backgroundURI = "pkg:/images/background-controls.jpg"
 end sub
 
 ' **************************************************************
@@ -44,14 +42,12 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
             m.video.width = 0
             m.video.height = 0
             result = true
-
         else if key = "left" then
             m.list.SetFocus(true)
             m.video.translation = [800, 100]
             m.video.width = 960
             m.video.height = 540
             result = true
-
         else if key = "back" then
             m.list.SetFocus(true)
             m.video.translation = [800, 100]
@@ -59,15 +55,10 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
             m.video.height = 540
             m.video.control = "stop"
             result = true
-
         else if key = "options" then
             ' * button: edit playlist URL (unchanged)
             showdialog()
             result = true
-        else if key = "Play/Pause" then
-            m.video.control = "stop"
-            result = true
-
         else if key = "InstantReplay" or key = "replay" then
             ' Counterclockwise arrow button: open search box
             showSearchDialog()
